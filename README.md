@@ -4,7 +4,7 @@ Predict a Spotify track’s **popularity** from its audio features using classic
 
 Try it now:
 
-🌐 Launch the interactive app
+### [🌐 Launch the interactive app](https://checkifspotifyhit.streamlit.app/)
 
 ---
 

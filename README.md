@@ -2,6 +2,10 @@
 
 Predict a Spotify track’s **popularity** from its audio features using classic ML models — plus an interactive demo.
 
+Try it now:
+
+🌐 Launch the interactive app
+
 ---
 
 ## 📂 What’s Inside

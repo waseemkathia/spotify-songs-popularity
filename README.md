@@ -1,6 +1,3 @@
-Here’s your short, precise README with emojis for a more attractive look:
-
----
 
 # 🎵 Spotify Songs Popularity Predictor
 

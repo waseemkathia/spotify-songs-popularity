@@ -44,13 +44,22 @@ pip install -r requirements.txt
 * ⚙️ Use the trained model instantly for predictions.
 
 ---
+## 👨‍💻 Connect with Me
 
-## 👨‍💻 About the Creator
+I am passionate about leveraging AI to solve real-world problems in healthcare, climate change and other emerging challenges. Please feel free to connect, ask questions, or discuss potential collaborations.
 
-Created by **Muhammad Waseem Sabir** — a data science enthusiast passionate about turning raw data into actionable insights.
-
-* 💼 Loves **machine learning, data visualization & analytics**
-* 📬 Contact: [GitHub Profile](https://github.com/waseemkathia)
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/waseemkathia/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  &nbsp;
+  <a href="https://github.com/waseemkathia" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  &nbsp;
+  <a href="https://waseemkathia.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-4A90E2?style=for-the-badge&logo=blogger&logoColor=white" alt="Website">
+  </a>
+</p>
 ---
 
